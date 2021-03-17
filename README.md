@@ -45,15 +45,7 @@ Expected Output format :5 is not multiple of 11. Try again.
 
 ### Lab 5 :-
 Write an Algorithm to computer x^y using WHILE loop where x and y are Function input parameters.
-#### Description
-About `ROT13`: Its a piece of text merely requires examining its alphabetic characters and
-replacing each one by the letter 13 places further along in the alphabet, wrapping back to the
-beginning if necessary.[2] A becomes N, B becomes O, and so on up to M, which becomes Z,
-then the sequence continues at the beginning of the alphabet: N becomes A, O becomes B, and
-so on to Z, which becomes M. Only those letters which occur in the English alphabet are
-affected; numbers, symbols, whitespace, and all other characters are left unchanged. Because
-there are 26 letters in the English alphabet and 26 = 2 × 13, the ROT13 function is its own
-inverse:[2]
+
 #### Test Cases :
 ```
 Sample Input: apple
@@ -84,20 +76,7 @@ Right Rotated Bits: 01001011
 ```
 
 ### Lab 8 :-
-Write an algorithm(Function) that receives an input string.
-#### Test Cases :
-```
-Sample Input:  255.64.12.11
-Sample Output: 255.64.12.11
-valid IP
-Defanged IP: 255[.]64[.]12[.]11
-Sample Input: 255.642.32.11
-Sample Output: 255.642.32.11
-Invalid IP
-```
-
-### Lab 9 :-
-Write an algorithm to Split the Input String into two strings based on even and odd indexes. Left padd '000' string and right pad with '111' string.
+Write an algorithm(Function) that receives an input string.Write an algorithm to Split the Input String into two strings based on even and odd indexes. Left padd '000' string and right pad with '111' string.
 #### Test Cases :
 ```
 Sample Input 1 :
@@ -107,7 +86,7 @@ Sample Output 1 :
 000oei111
 ```
 
-### Lab 10 :-
+### Lab 9 :-
 Write a function that creates Even array elements which accepts N is input. Push N to Even Array if the N is even number.
 #### Test Cases :
 ```
@@ -124,7 +103,7 @@ After User Input Matrix Elements
 Input: 2 //sum
 Output: 32 
 ```
-### Lab 11 :- 
+### Lab 10 :- 
 Represent the below matrices as group of rows once and group of cols using Multi Dimensional Arrays and implement the addition of the matrices.
     i) Add 2 matrices size 4x4
    ii) Add 2 matrices size 3x3
@@ -141,7 +120,7 @@ O/P : [2,3,5,4,1,7]
 (x2,y2) = (5,4)
 (x3,y3) = (1,7)
 ```
-### Lab 12 :- 
+### Lab 11 :- 
 Split the array and add the first part to the end. There is a given array and split it from a specified position, and move the first part of array add to the end.Write a function that accepts an array and index position to split as arguments. 
 #### Test Cases :
 ```
@@ -149,7 +128,7 @@ Input:
 arr= [12, 10, 5, 6, 52, 36], index position to split = 2
 Output : [5, 6, 52, 36, 12, 10]
 ```
-### Lab 13 :- 
+### Lab 12 :- 
 Write a program to calculate trailing zeros count for factorial of a given input N Number.
 #### Test Cases :
 ```
