@@ -105,10 +105,10 @@ Output: 32
 ```
 ### Lab 10 :- 
 Represent the below matrices as group of rows once and group of cols using Multi Dimensional Arrays and implement the addition of the matrices.
-    i) Add 2 matrices size 4x4
-   ii) Add 2 matrices size 3x3
-  iii) Add 2 matrices size 2x3
-   iv) Add 2 matrices size 3x2
+i) Add 2 matrices size 4x4
+ii) Add 2 matrices size 3x3
+iii) Add 2 matrices size 2x3
+iv) Add 2 matrices size 3x2
 #### Test Cases :
 ```
 Input : n = 3
